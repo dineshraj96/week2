@@ -1,8 +1,8 @@
 {
     "name": "My WebAPP",
     "short_name":"PWA",
-    "start_url":"/",
-    "id":"/",
+    "start_url":"/week2/",
+    "id":"/week2/",
     "description":"Week2",
     "display":"standalone",
     "icons":[
