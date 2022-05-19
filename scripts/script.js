@@ -1,4 +1,4 @@
 if('serviceWorker' in navigator)
 {
-    navigator.serviceWorker.register('../service-worker.js',{scope:'/week2/'});
+    navigator.serviceWorker.register('../service-worker.js',{scope: '/week2/'});
 }
